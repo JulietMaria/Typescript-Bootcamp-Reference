@@ -1,0 +1,20 @@
+{
+    "name": "typescript-bootcamp-reference",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "run": "npm run build && node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JulietMaria/Typescript-Bootcamp-Reference.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JulietMaria/Typescript-Bootcamp-Reference/issues"
+    },
+    "homepage": "https://github.com/JulietMaria/Typescript-Bootcamp-Reference#readme"
+}
