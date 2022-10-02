@@ -12,5 +12,7 @@
         "./index.ts",
         "./primitive-types.ts",
         "./array-type.ts",
+        "./type-aliases.ts",
+        "./type-aliases.ts",
     ]
 }
