@@ -1,0 +1,30 @@
+Why TypeScript ?
+TypeScript is a superset of JavaScript developed at Microsoft by Anders Hejlsberg ( designer of C# ) in the year 2010 and open-sourced in 2012. TypeScript adds a handful of new features to JavaScript and takes it to the next level in modern web development.
+
+There are a lot of advantages if you add TypeScript to your JavaScript-based projects like:
+
+	• You can catch bugs errors during the development phase itself rather than runtime.
+
+	• Debugging is much easier & you will have bug-free production code and feel safe.
+
+	• With static type-checking, it becomes easier for you to spot errors and edge cases.
+
+	• Saves a lot of developer's time in fixing unidentifiable runtime bugs.
+
+	• TypeScript adds advanced features like generics, modules & namespaces.
+
+	• Your projects will be easily understandable by other developers.
+
+	• Your project will have excellent developer experience ( DX ) and team velocity.
+
+	• Helps you write less code than JavaScript & improves readability.
+
+	• Source code documentation will be much better.
+
+	• TypeScript code is easier to refactor and reliable. Hence easier to maintain.
+
+	• Since JavaScript is a subset of TypeScript, you can use all JavaScript libraries.
+
+	• You can incrementally upgrade your JavaScript files on the go.
+
+TypeScript is a powerful tool for large applications
